@@ -1,0 +1,7 @@
+/Users/slinky/Project3/playground/cmake-build-debug/CMakeFiles/Playground.dir
+/Users/slinky/Project3/playground/cmake-build-debug/CMakeFiles/Dump.dir
+/Users/slinky/Project3/playground/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/slinky/Project3/playground/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/slinky/Project3/playground/cmake-build-debug/libWad/CMakeFiles/Wad.dir
+/Users/slinky/Project3/playground/cmake-build-debug/libWad/CMakeFiles/edit_cache.dir
+/Users/slinky/Project3/playground/cmake-build-debug/libWad/CMakeFiles/rebuild_cache.dir

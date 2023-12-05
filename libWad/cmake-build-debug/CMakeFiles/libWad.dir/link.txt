@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibWad.a CMakeFiles/libWad.dir/Wad.cpp.o
+/usr/bin/ranlib liblibWad.a
